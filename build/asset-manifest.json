@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.47df8c73.css",
+    "main.js": "/static/js/main.cb3cabd2.js",
+    "static/media/circle-triangle-left-fill-svgrepo-com.svg": "/static/media/circle-triangle-left-fill-svgrepo-com.970c9abf47dcdbf3e8aa4279f1b11b8c.svg",
+    "static/media/circle-triangle-right-fill-svgrepo-com.svg": "/static/media/circle-triangle-right-fill-svgrepo-com.8e5b6ccfff743141449d7a2e74e54396.svg",
+    "index.html": "/index.html",
+    "static/media/logout-svgrepo-com.svg": "/static/media/logout-svgrepo-com.f6422c211b1bf6777105556d8b743bf4.svg",
+    "main.47df8c73.css.map": "/static/css/main.47df8c73.css.map",
+    "main.cb3cabd2.js.map": "/static/js/main.cb3cabd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47df8c73.css",
+    "static/js/main.cb3cabd2.js"
+  ]
+}
