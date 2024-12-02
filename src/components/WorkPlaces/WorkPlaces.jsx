@@ -4,6 +4,7 @@ import { AuthContext } from '../../context/AuthContext';
 import { useDispatch, useSelector } from 'react-redux';
 import { removeWorkPlaces } from "../../context/WorkPlaceSlice";
 import { getOperations } from "../../context/OperationsSlice";
+import samplePDF2 from '../../Example2/SamplePDF.pdf';
 
 const WorkPlaces = () => {
     const { logout } = useContext(AuthContext);
@@ -21,6 +22,15 @@ const WorkPlaces = () => {
     }
     return (
         <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
+            <center>
+                <h1>Welcome to Geeks for Geeks</h1>
+                <h3>Click on below link to open
+                    PDF file in new tab</h3>
+                <b><a href={samplePDF2} target="_blank"
+                    rel="noreferrer">
+                    Open Second PDF
+                </a></b>
+            </center>
             <div className='grid gap-10 sm:grid-cols-2 sm:mb-20 justify-around  p-20 max-w-4xl'>
                 <BackArrow onChange={backHandler} />
                 <BackArrow onChange={removeWorkPlacesHandler} value="Odjava" />
