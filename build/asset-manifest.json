@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20bee9eb.css",
+    "main.js": "/static/js/main.b4207e4d.js",
+    "static/media/SamplePDF.pdf": "/static/media/SamplePDF.ac0398d4ca249e568588.pdf",
+    "static/media/circle-triangle-left-fill-svgrepo-com.svg": "/static/media/circle-triangle-left-fill-svgrepo-com.b9b66d36c42290c41bfd4fb695b5b71b.svg",
+    "static/media/circle-triangle-right-fill-svgrepo-com.svg": "/static/media/circle-triangle-right-fill-svgrepo-com.3deb7debfd817ed68729c17d2cd7c754.svg",
+    "index.html": "/index.html",
+    "static/media/logout-svgrepo-com.svg": "/static/media/logout-svgrepo-com.3b854ac50436a5d8b12ce9657b9bb7b0.svg",
+    "main.20bee9eb.css.map": "/static/css/main.20bee9eb.css.map",
+    "main.b4207e4d.js.map": "/static/js/main.b4207e4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20bee9eb.css",
+    "static/js/main.b4207e4d.js"
+  ]
+}
